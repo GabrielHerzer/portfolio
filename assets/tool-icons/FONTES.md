@@ -1,0 +1,1 @@
+Ícones: Simple Icons, https://github.com/simple-icons/simple-icons . Arquivos SVG do diretório icons, com cores de apresentação. Licença no arquivo LICENSE.md. Marcas pertencem aos respectivos titulares.
