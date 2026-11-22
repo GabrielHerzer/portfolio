@@ -51,3 +51,14 @@ Conhecimentos técnicos e pessoais e níveis de idiomas atualizados conforme os 
 Atividades e aprendizados agora aparece em cards compactos: três por linha no computador, dois em telas intermediárias e um no celular. Retirado o campo de descrição dos aprendizados.
 
 Instituições, períodos e situações atualizados conforme informado. Escola de Inovadores exibe carga horária de 30 horas, Centro Paula Souza e situação cursando; não foram inventadas datas. Datas com notação 2023.1–2023.6 e 2026.1 foram preservadas conforme informadas. Os demais cursos itinerários foram registrados como concluídos conforme esta revisão.
+
+
+## Atualização de projetos e contatos — 21/11/2026
+
+- KREDITA concluído, com demonstração leve em vídeo, ícone, contribuição atualizada e seis cards de ferramentas.
+- Python para Zumbis incluído com vídeo, ícone, descrição, contribuição, ferramentas e repositório.
+- Atlas de Estudos reservado para preenchimento posterior; sua imagem, vídeo, ícone e informações ainda estão pendentes.
+- Demonstrações começam ao passar o mouse sobre a capa; clique/toque ou teclado permite reproduzir e pausar. Os vídeos são carregados sob demanda.
+- Contatos tem dois círculos pulsantes e oito partículas azuis/vermelhas com movimentos variados e encontros roxos. Animações respeitam a preferência de movimento reduzido.
+
+Arquivos adicionais de publicação: design.css, fonts.css, project-previews.js, contact-orbits.js e as pastas de assets. Manter a estrutura de diretórios.
